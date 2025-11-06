@@ -50,10 +50,6 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://matplotlib.org" target="_blank">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/matplotlib-icon-f7mzorjcj05050u32rdqcyy.png/matplotlib-icon-iodufaod59i61pudzd92.png?_a=DATAg1AAZAA0" alt="Matplotlib" width="50" height="50">
-  </a>
-  
 </p>
 
 ---

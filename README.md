@@ -50,11 +50,15 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
+  <a href="https://matplotlib.org/stable/_static/images/logo2.svg" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  
 </p>
 
 ---
 
-## 💻 Full Stack & DevOps Stack
+## Full Stack & DevOps Stack
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -120,6 +124,6 @@
 ## Contact
 
 - Email: `sapranila719@gmail.com`  
-- Telegram: `@@sOaMp88rNanIo`
+- Telegram: `@sOaMp88rNanIo`
 
 ---

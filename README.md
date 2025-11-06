@@ -50,8 +50,8 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://matplotlib.org/stable/_static/images/logo2.svg" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
+  <a href="https://matplotlib.org" target="_blank">
+    <img src="https://matplotlib.org/stable/_static/images/logo2.svg" alt="Matplotlib" width="50" height="50">
   </a>
   
 </p>

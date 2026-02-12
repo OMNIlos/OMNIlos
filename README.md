@@ -120,6 +120,6 @@
 ## Contact
 
 - Email: `sapranila719@gmail.com`  
-- Telegram: `@sOaMp88rNanIo`
+- Telegram: `@NEBULA8888`
 
 ---

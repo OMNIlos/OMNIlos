@@ -124,6 +124,6 @@
 ## Contact
 
 - Email: `sapranila719@gmail.com`  
-- Telegram: `@NEBULA8888`
+- Telegram: `@I1yaGul`
 
 ---

@@ -12,8 +12,8 @@
 
 ---
 ## My achievements
-- 🏆 Natioanal Technoligical Olimpiad in Big Data & Machine Learning 2026 - Prizes winner
-- 🏆 Kurchatov Olympiad in Mathematics - winner
+- 🥇 Kurchatov Olympiad in Mathematics 2026 - winner
+- 🥈 Natioanal Technoligical Olimpiad in Big Data & Machine Learning 2026 - Prizes winner
 - ⭐️ Innopolis Open in Artifical Intelligence olympiad 2026 - finalist, 1th place in leaderboard
 ---
 

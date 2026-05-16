@@ -23,7 +23,7 @@
 | 2026 | **NTO "Big Data & ML"** | **Prize winner** |
 | 2026 | **Kurchatov "Mathematics"**| **Prize winner** |
 | 2026 | **Innopolis Open "Artificial Intellegence"**| **Top 1 in 2 of 3 parts - finalist** |
-| 2026 | **ML4PAY Hackathon ITMO X AVITO **| **Prize winner** |
+| 2026 | **ML4PAY Hackathon ITMO X AVITO**| **Prize winner** |
 ---
 
 ## Stack
